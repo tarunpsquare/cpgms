@@ -9,7 +9,7 @@ printf("Enter the Principal amount: ");
 scanf("%f", &p);
 printf("Enter the rate of interest: ");
 scanf("%f", &r);
-r=r/100;
+r=r/(12*100);
 printf("Enter the time in years: ");
 scanf("%d", &n);
 n=n*12;

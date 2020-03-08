@@ -8,7 +8,7 @@ scanf("%s", name);
 printf("Enter marks : \n");
 scanf("%f %f %f %f %f", &m1, &m2, &m3, &m4, &m5);
 printf("Name is: %s \n", name);
-printf("Marks in subjects are: %f %f %f %f %F\n", m1, m2, m3, m4, m5);
+printf("Marks in subjects are: \n%f \n%f \n%f \n%f \n%f\n", m1, m2, m3, m4, m5);
 
 total=m1+m2+m3+m4+m5;
 avg=total/5.0;

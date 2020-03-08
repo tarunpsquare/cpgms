@@ -2,7 +2,7 @@
 void main()
 {
 char name[20];
-float m1, m2, m3, m4, m5 total, avg;
+float m1, m2, m3, m4, m5, total, avg;
 printf("Enter the name of the student: \n");
 scanf("%s", name);
 printf("Enter marks : \n");
